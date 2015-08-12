@@ -3,8 +3,8 @@
 
   "paths" : [
     {
-      "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
+      "name" : "tvujec-outlearn-path",
+      "title" : "Tomislav's First Outlearn Path",
       "description" : "Fastest Way to Publish a Path",
       "privacy" : "public",
       "pages" : [
